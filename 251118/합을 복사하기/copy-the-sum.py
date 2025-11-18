@@ -1,5 +1,6 @@
 a, b, c = 1, 2, 3
-a = a+b+c
-b = a+b+c
-c = a+b+c
+d = a+b+c
+a = d
+b = d
+c = d
 print(a,b,c)
