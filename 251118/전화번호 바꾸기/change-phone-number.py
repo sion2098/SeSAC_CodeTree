@@ -1,4 +1,4 @@
 l = input().split('-')
-x = l[0]
-y = l[1]
+x = l[1]
+y = l[2]
 print(f"010-{y}-{x}")
