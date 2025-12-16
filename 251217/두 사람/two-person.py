@@ -12,4 +12,4 @@ b_s = str(arr2[1])
 if (a_a >= 10 or b_a >= 19) and (a_s == 'M' or b_s == 'M') :
     print(1)
 else :
-    pass
+    print(0)
